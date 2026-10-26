@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SVG conversion of sample.eps (fig2dev output from the LaTeX template) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="224pt" height="224pt"
+     viewBox="1822.5 1776.5 3556.1 3556.1">
+  <g fill="none" stroke="#000" stroke-width="15">
+    <circle cx="3235" cy="3032" r="302"/>
+    <circle cx="4185" cy="4320" r="343" fill="#f00"/>
+    <polygon points="1845,1800 5355,1800 5355,5310 1845,5310"/>
+  </g>
+</svg>
